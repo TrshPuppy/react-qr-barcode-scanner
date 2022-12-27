@@ -1,10 +1,10 @@
 {
-  "name": "@x684867/react-qr-barcode-scanner",
-  "version": "1.0.7",
+  "name": "@asymmetric-effort/qrcode-scanner",
+  "version": "0.0.11",
   "description": "A simple React Component using the client's webcam to read barcodes and QR codes.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "author": "Jamena McInteer (forked by Sam Caldwell for patching of security vulns)",
+  "author": "Sam Caldwell",
   "files": [
     "dist"
   ],
@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/Asymmetric-Effort/react-qr-barcode-scanner/issues"
   },
-  "homepage": "https://github.com/Asymmetric-Effort/react-qr-barcode-scanner#readme",
+  "homepage": "https://www.npmjs.com/package/@asymmetric-effort/qrcode-scanner",
   "peerDependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
